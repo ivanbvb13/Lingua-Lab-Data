@@ -1,0 +1,186 @@
+[
+    {
+        "tema": "foods",
+        "description": "Foods are substances that we consume to provide nutritional support for our bodies. They can be classified into different categories such as fruits, vegetables, grains, proteins, and dairy. Each category has its own unique benefits and characteristics.",
+        "subtema": [
+            {
+                "name": "Different types of meats",
+                "description": "Meat is animal flesh that is eaten as food. It is a rich source of protein and other nutrients. Different types of meat include beef, pork, chicken, lamb, and fish. Each type has its own unique flavor and texture.",
+                "descriptionSpanish" : "La carne es la carne de los animales que se come como alimento. Es una rica fuente de proteínas y otros nutrientes. Los diferentes tipos de carne incluyen carne de res, cerdo, pollo, cordero y pescado. Cada tipo tiene su propio sabor y textura únicos.",
+                "list": [
+                    [
+                        {
+                            "key": "meatInSpanish",
+                            "value": "Carne de res"
+                        },
+                        {
+                            "key": "meatInEnglish",
+                            "value": "Beef"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "meatInSpanish",
+                            "value": "Cerdo"
+                        },
+                        {
+                            "key": "meatInEnglish",
+                            "value": "Pork"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "meatInSpanish",
+                            "value": "Pollo"
+                        },
+                        {
+                            "key": "meatInEnglish",
+                            "value": "Chicken"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "meatInSpanish",
+                            "value": "Cordero"
+                        },
+                        {
+                            "key": "meatInEnglish",
+                            "value": "Lamb"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "meatInSpanish",
+                            "value": "Pescado"
+                        },
+                        {
+                            "key": "meatInEnglish",
+                            "value": "Fish"
+                        }
+                    ]
+                ] 
+            }
+        ]
+    },
+    {
+        "tema": "verbs",
+        "description": "Verbs are action words that describe what someone or something does. They can be in the present, past, or future tense. Understanding verb tenses is essential for effective communication.",
+        "subtema": [
+            {
+                "name": "Verbs in their three tenses",
+                "description": "Verbs are action words that describe what someone or something does. They can be in the present, past, or future tense. Understanding verb tenses is essential for effective communication.",
+                "descriptionSpanish" : "Los verbos son palabras de acción que describen lo que alguien o algo hace. Pueden estar en tiempo presente, pasado o futuro. Comprender los tiempos verbales es esencial para una comunicación efectiva.",
+                "list": [
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Comer"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Eat"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Ate"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Eaten"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Beber"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Drink"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Drank"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Drunk"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Correr"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Run"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Ran"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Run"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Hablar"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Speak"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Spoke"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Spoken"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Escribir"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Write"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Wrote"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Written"
+                        }
+                    ],
+                    [
+                        {
+                            "key": "verbInSpanish",
+                            "value": "Leer"
+                        },
+                        {
+                            "key": "verbInPresent",
+                            "value": "Read"
+                        },
+                        {
+                            "key": "verInPast",
+                            "value": "Read"
+                        },
+                        {
+                            "key": "verbInPastParticiple",
+                            "value": "Read"
+                        }
+                    ]
+                ]
+            }
+        ]
+    }
+]
