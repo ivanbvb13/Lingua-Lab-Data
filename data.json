@@ -10,51 +10,51 @@
                 "list": [
                     [
                         {
-                            "key": "meatInSpanish",
+                            "key": "nameInSpanish",
                             "value": "Carne de res"
                         },
                         {
-                            "key": "meatInEnglish",
+                            "key": "nameInEnglish",
                             "value": "Beef"
                         }
                     ],
                     [
                         {
-                            "key": "meatInSpanish",
+                            "key": "nameInSpanish",
                             "value": "Cerdo"
                         },
                         {
-                            "key": "meatInEnglish",
+                            "key": "nameInEnglish",
                             "value": "Pork"
                         }
                     ],
                     [
                         {
-                            "key": "meatInSpanish",
+                            "key": "nameInSpanish",
                             "value": "Pollo"
                         },
                         {
-                            "key": "meatInEnglish",
+                            "key": "nameInEnglish",
                             "value": "Chicken"
                         }
                     ],
                     [
                         {
-                            "key": "meatInSpanish",
+                            "key": "nameInSpanish",
                             "value": "Cordero"
                         },
                         {
-                            "key": "meatInEnglish",
+                            "key": "nameInEnglish",
                             "value": "Lamb"
                         }
                     ],
                     [
                         {
-                            "key": "meatInSpanish",
+                            "key": "nameInSpanish",
                             "value": "Pescado"
                         },
                         {
-                            "key": "meatInEnglish",
+                            "key": "nameInEnglish",
                             "value": "Fish"
                         }
                     ]
